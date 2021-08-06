@@ -1,0 +1,65 @@
+#main{
+	padding: 0px;
+	margin: 0px;
+	background-color: rgb(240, 240, 240);
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	border: 10px solid white;
+}
+#title{
+	font-size: 250%;
+	color: black;
+	text-align: center;
+}
+#description{
+	text-align: center;
+	font-weight: 200;
+
+}
+#img-div{
+	border-top: 25px solid rgb(240, 240, 240);
+	border-bottom: 25px solid rgb(240, 240, 240);
+	border-right: 20px solid rgb(240, 240, 240);
+	border-left: 20px solid rgb(240, 240, 240);
+	background-color: white;
+
+}
+#image{
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 2%;
+	margin-top: 3%;
+
+}
+
+#img-caption{
+	text-align: center;
+	font-weight: 200;
+	padding-bottom: 1.5%;
+}
+
+}
+#tribute-info {
+	text-align: center;
+}
+
+ul{
+	text-align: justify;
+	margin-right: 20%
+	margin-left: 20%;
+	margin-bottom: 3%;
+}
+
+li{
+	margin-left: 25%;
+	margin-right: 25%;
+	font-weight: 200;
+}
+
+
+#tribute-link{
+	text-align: center;
+	margin-bottom: 1%;
+}
